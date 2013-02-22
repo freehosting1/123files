@@ -171,7 +171,7 @@
                                 .css({ left : left, paddingLeft : settings.headerWidth });
 
                         // add number to bottom of tab
-                        settings.enumerateSlides && $this.append('<b>' + (index + 1) + '</b>');
+                       // settings.enumerateSlides && $this.append('<b>' + (index + 1) + '</b>');
 
                     });
                 },
